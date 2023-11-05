@@ -1,17 +1,17 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: .
+description: .      
+background: /assets/theme/images/canlab_home2.png
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+Cognitive and Affective Neuroscience Lab led by [Sascha Frühholz](https://www.sv.uio.no/psi/english/people/academic/saschaf/). The lab is based in the [Department of Psychology](https://www.sv.uio.no/psi/english/) at the [University of Oslo](https://www.uio.no/english/) (UiO).
 
-## Installation
+## Main research areas
 
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+* Voice communication and social voice signals
+* Affective Neuroscience and Systems Neuroscience of the limbic system
+* Digitalization and AI in neuroscience
+* Biometric and forensic dimensions of human data
+* Clinical neuroscience of neurological and psychiatric disorders
