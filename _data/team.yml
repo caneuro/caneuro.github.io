@@ -13,6 +13,7 @@
   twitter: sfruhholz
   github: caneuro
   email: sascha.fruhholz@psykologi.uio.no
+  new_window: true
 
 - name: Christine Skjegstad
   role: PhD student
@@ -24,6 +25,7 @@
   googlescholar: Sascha Frühholz
   twitter: sfruhholz
   email: c.l.skjegstad@psykologi.uio.no
+  new_window: true
 
 - name: Merve Akca
   role: Postdoc
@@ -35,6 +37,7 @@
   googlescholar: Sascha Frühholz
   twitter: sfruhholz
   email: merve.akca@psykologi.uio.no
+  new_window: true
 
 - name: Nicole Merz
   role: Research assistant
@@ -45,5 +48,5 @@
   researchgate: Sascha Frühholz
   googlescholar: Sascha Frühholz
   twitter: sfruhholz
-
   email: merve.akca@psykologi.uio.no
+  new_window: true
