@@ -6,7 +6,7 @@ background: /assets/theme/images/canlab_home2.png
 permalink: /about/
 ---
 
-We use an interdisciplinary approach, including research perspectives and
+We use an interdisciplinary scientific approach including research perspectives and
 experimental approaches from Psychology, Neuroscience, Biology, Medicine, and
 Computing Sciences.
 

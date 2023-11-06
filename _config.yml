@@ -8,8 +8,8 @@ baseurl:                    # Only required if your site is in a directory e.g. 
 # SOCIAL PROFILES
 social:
   email: canlab@gmail.com
-  twitter: CANLab1
-  github: caneuro               # Can also be a github_username/repository
+  twitter: canlab1
+  github: caneuro                       # Can also be a github_username/repository
   disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
 # THEME SETTINGS (ALL OPTIONAL)
