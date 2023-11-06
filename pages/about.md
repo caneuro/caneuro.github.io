@@ -6,21 +6,23 @@ background: /assets/theme/images/canlab_home2.png
 permalink: /about/
 ---
 
-We investigate a broad variety of research topics using psychophysical
-and neuroscientific methods. We use an interdisciplinary approach, including
-research perspectives and experimental approaches from Psychology, Neuroscience, Biology, Medicine, and
+We use an interdisciplinary approach, including research perspectives and
+experimental approaches from Psychology, Neuroscience, Biology, Medicine, and
 Computing Sciences.
 
 ## Research topics
 
-We investigate ...
+* Affective Neuroscience: Emotion recognition from voices, music, and faces
+* Social Neuroscience: Identity recognition from human signals
+* Systems Neuroscience: Structural and functional features of the limbic system
+* Forensic Psychology and Neuroscience: Psychopathy, biometrics, eye-witness memory
 
 ## Research methods
 
 * Functional and structural magnetic resonance imaging (MRI)
 * Surface electroencephalography (EEG) and intracranial electrophysiology (iEEG)
 * Single-cell spiking and cellular brain stimulation
-* Computer-based information decoding (AI / Machine Learning)
+* Computer-based information decoding and representation (AI / Machine Learning)
 * Visual and auditory psychophysics
 * Clinical neuroscience of brain lesions
-* Forensic Psychology and Neuroscience
+* Forensic experiments and psychopathology
