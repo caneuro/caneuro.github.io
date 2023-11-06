@@ -18,7 +18,6 @@ columns:
         sascha.fruhholz [at] psykologi.uio.no
         <br />
         canlab.uio [at] gmail.com
-      links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
