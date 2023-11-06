@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Research Projects
-description:
+title: 
+description: Research Projects
 permalink: /projects/
 ---
 

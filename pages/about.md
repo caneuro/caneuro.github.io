@@ -1,9 +1,15 @@
 ---
+layout: default
 title:
-description:
+description: <br />
 background: /assets/theme/images/canlab_home2.png
 permalink: /about/
 ---
+
+We investigate a broad variety of research topics using psychophysical
+and neuroscientific methods. We use an interdisciplinary approach, including
+research perspectives and experimental approaches from Psychology, Neuroscience, Biology, Medicine, and
+Computing Sciences.
 
 ## Research topics
 
@@ -11,19 +17,10 @@ We investigate ...
 
 ## Research methods
 
-* Functional magnetic resonance imaging (fMRI)
-* Structural magnetic resonance imaging (MRI) and computational anatomy
-* Diffusion tensor imaging (DTI)
-* Electroencephalography (EEG)
-* Intracranial brain recordings (iEEG) and single-cell spiking
-* Transcranial magnetic stimulation (TMS)
-* Functional near-infrared spectroscopy (fNIRS)
-* Computer-based information decoding («machine learning»)
-* Brain lesion modeling in patients
-* Cellular brain stimulation in patients
-* Forensic approaches in social cognition
-* Neuropsychological assessment and testing
-* Behavioral performance and psychoacoustic experiments
-* Acoustic voice recordings and sound analysis
-* Eye-tracking data
-* Quantitative meta-analysis
+* Functional and structural magnetic resonance imaging (MRI)
+* Surface electroencephalography (EEG) and intracranial electrophysiology (iEEG)
+* Single-cell spiking and cellular brain stimulation
+* Computer-based information decoding (AI / Machine Learning)
+* Visual and auditory psychophysics
+* Clinical neuroscience of brain lesions
+* Forensic Psychology and Neuroscience

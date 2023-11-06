@@ -13,10 +13,10 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      Contact information: sascha.fruhholz [at] psykologi.uio.no / canlab [at] gmail.com
+      Contact information: sascha.fruhholz [at] psykologi.uio.no // canlab [at] gmail.com
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
-  Content on this site is copyright protected.
+  Content on this site is copyright protected by the CANLab.

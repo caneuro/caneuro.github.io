@@ -8,11 +8,11 @@
     (2006), PhD in Neurobiology (2008), Habilitation in Psychology (2016).
     Full list of publications on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sascha+Fr%C3%BChholz+%5Bauthor%5D&sort=pubdate)
      and [Google Scholar](https://scholar.google.com/citations?user=BOQ8VjoAAAAJ&hl=en)
+  email: sascha.fruhholz@psykologi.uio.no
   orcid: 0000-0002-6485-3817
   researchgate: Sascha Frühholz
   twitter: sfruhholz
   github: caneuro
-  email: sascha.fruhholz@psykologi.uio.no
   new_window: true
 
 - name: Christine Skjegstad
@@ -20,11 +20,13 @@
   image: assets/theme/images/cs.jpg # Can be external link
   description: >
     Research project on digital emotions.
+    Full list of publications on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&term=Skjegstad+CL&cauthor_id=36446775)
+     and [Google Scholar](https://scholar.google.com/citations?user=YiWpIA4AAAAJ&hl=en)
+  email: c.l.skjegstad@psykologi.uio.no
   orcid: 0000-0002-6485-3817
   researchgate: Sascha Frühholz
   googlescholar: Sascha Frühholz
   twitter: sfruhholz
-  email: c.l.skjegstad@psykologi.uio.no
   new_window: true
 
 - name: Merve Akca
@@ -32,11 +34,13 @@
   image: assets/theme/images/ma.jpg
   description: >
     Investigating auditory emotions with healthy humans and autistic patients.
+    Full list of publications on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Merve+Akca+%5Bauthor%5D&sort=pubdate)
+     and [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=merve+akca+%5Bauthor%5D&btnG=)
+  email: merve.akca@psykologi.uio.no
   orcid: 0000-0002-6485-3817
   researchgate: Sascha Frühholz
   googlescholar: Sascha Frühholz
   twitter: sfruhholz
-  email: merve.akca@psykologi.uio.no
   new_window: true
 
 - name: Nicole Merz
@@ -44,9 +48,9 @@
   image: assets/theme/images/icebaer.jpg
   description: >
     Human cognition of AI generated faces.
+  email: merve.akca@psykologi.uio.no
   orcid: 0000-0002-6485-3817
   researchgate: Sascha Frühholz
   googlescholar: Sascha Frühholz
   twitter: sfruhholz
-  email: merve.akca@psykologi.uio.no
   new_window: true

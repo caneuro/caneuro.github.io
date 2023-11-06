@@ -1,7 +1,7 @@
 ---
 layout: home
-title: .
-description: .      
+title: <br />
+description: <br />      
 background: /assets/theme/images/canlab_home2.png
 permalink: /
 ---
@@ -12,6 +12,6 @@ Cognitive and Affective Neuroscience Lab led by [Sascha Frühholz](https://www.s
 
 * Voice communication and social voice signals
 * Affective Neuroscience and Systems Neuroscience of the limbic system
-* Digitalization and AI in neuroscience
+* Digitalization and AI in Neuroscience
 * Biometric and forensic dimensions of human data
 * Clinical neuroscience of neurological and psychiatric disorders

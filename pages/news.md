@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Research and media
-description:
+title: 
+description: Research and media
 permalink: /news/
 ---
 
