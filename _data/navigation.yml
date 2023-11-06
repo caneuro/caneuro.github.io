@@ -10,6 +10,6 @@
   href: /news/
 - text: Research Projects
   href: /projects/
-- text: GitHub
-  href: https://github.com/caneuro
+#- text: GitHub
+#  href: https://github.com/caneuro
   new_window: true
