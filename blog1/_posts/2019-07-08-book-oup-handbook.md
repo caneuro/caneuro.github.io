@@ -1,8 +1,9 @@
 ---
 title: Oxford Handbook of Voice Perception
 description: |
-  Out now at the Oxford University Press (OUP). Link to
-  [OUP Handbook](https://doi.org/10.1093/oxfordhb/9780198743187.001.0001){:target="_blank"}.
+  Out now at the Oxford University Press (OUP). Find a link to the
+  [OUP Handbook](https://doi.org/10.1093/oxfordhb/9780198743187.001.0001){:target="_blank"}
+  when you open this news thread.
 background: /assets/theme/images/oup_voice.jpg
 author: [Sascha Frühholz]
 tags: [Book]

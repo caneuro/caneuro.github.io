@@ -2,8 +2,9 @@
 title: Digital emotions
 description: |
   Functional neuroimaging (fMRI) study on digital emotions.
-  If you would like to participate in the study, follow the
-  [link](https://www.sv.uio.no/psi/english/research/projects/digital-emotions/){:target="_blank"}.
+  For interests in study participation follow the
+  [link](https://www.sv.uio.no/psi/english/research/projects/digital-emotions/){:target="_blank"}
+  when opening this thread.
 background:
   img: /assets/theme/images/robot.jpg
   by: freepik

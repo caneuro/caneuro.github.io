@@ -2,7 +2,8 @@
 title: Nonverbal auditory communication – Evidence for integrated neural systems for voice signal production and perception
 description: |
   New paper out in Progress in Neurobiology.
-  Link to [article](https://doi.org/10.1016/j.pneurobio.2020.101948){:target="_blank"}.
+  Find a link to the [article](https://doi.org/10.1016/j.pneurobio.2020.101948){:target="_blank"}
+  when you open this news thread.
 background: "https://ars.els-cdn.com/content/image/1-s2.0-S0301008220302033-gr1.jpg"
 author: [Sascha Frühholz]
 tags: [Review]

@@ -1,13 +1,13 @@
 # SITE SETTINGS
-title: CAN Lab                         # Title in top navigation bar (navbar) and <head>
-author: Sascha Frühholz                    # Used for copyright statement in footer
-baseurl:                    # Only required if your site is in a directory e.g. https://username.github.io/sitename
+title: CAN Lab                          # Title in top navigation bar (navbar) and <head>
+author: Sascha Frühholz                 # Used for copyright statement in footer
+baseurl:                                # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
 # SOCIAL PROFILES
 social:
-  email: canlab@gmail.com
+  email: canlab.uio@gmail.com
   twitter: canlab1
   github: caneuro                       # Can also be a github_username/repository
   disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com

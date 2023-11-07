@@ -7,9 +7,8 @@ permalink: /about/
 ---
 
 We use an interdisciplinary approach for investigations in the field of
-**Cognitive and Affective Neuroscience**. Our investigations included research
-perspectives and experimental approaches from Psychology, Neuroscience, Biology,
-Medicine, and Computing Sciences.
+**Cognitive and Affective Neuroscience**. Our investigations include research
+perspectives and experimental approaches from Psychology, Neuroscience, Biology, Medicine, and Computing Sciences.
 
 ## Research topics
 
