@@ -1,5 +1,5 @@
 ---
-title: crossmodal benefits to vocal emotion perception in cochlear implant users
+title: Crossmodal benefits to vocal emotion perception in cochlear implant users
 description: |
   New paper out in iScience. Link to
   [article](https://doi.org/10.1016/j.isci.2022.105711).

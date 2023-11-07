@@ -25,4 +25,4 @@ Computing Sciences.
 * Computer-based information decoding and representation (AI / Machine Learning)
 * Visual and auditory psychophysics
 * Clinical neuroscience of brain lesions
-* Forensic experiments and psychopathology
+* Forensic experiments and psychopathological dimensions of crime

@@ -9,5 +9,5 @@ tags: [Research]
 comments: true
 ---
 
-New paper published in JASA by by C Trevor, M Renner, and S Fruhholz.
+New paper published in JASA by C Trevor, M Renner, and S Fruhholz.
 About the different ways how fear is portrayed in music.
