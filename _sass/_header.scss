@@ -7,7 +7,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 0; // Should always be square, independent from $enable-rounded
-  color: $blue;
+  color: #292382;
   margin-bottom: 2rem;
   padding: 2rem 1rem;
   position: relative; // To contain overlay
@@ -34,10 +34,10 @@
 
   a {
     &:not([class]) { // Excludes <a> with class, e.g. .btn .badge
-      color: $blue;
+      color: #292382;
       text-decoration: underline;
       &:hover {
-        color: darken($blue, 10);
+        color: darken(#292382, 10);
       }
     }
   }
@@ -66,8 +66,8 @@
   }
 
   .badge {
-    border: 2px solid $blue;
-    color: $blue;
+    border: 2px solid #292382;
+    color: #292382;
     margin-top: 0.25rem;
     padding-left: $badge-padding-x * 2;
     padding-right: $badge-padding-x * 2;
@@ -89,14 +89,14 @@
 
   .caption {
     bottom: 0;
-    color: darken($blue, 25);
+    color: darken(#292382, 25);
     font-size: 80%;
     padding: 0 0.5rem;
     position: absolute;
     right: 0;
 
     a {
-      color: darken($blue, 25);
+      color: darken(#292382, 25);
       text-decoration: none;
     }
   }

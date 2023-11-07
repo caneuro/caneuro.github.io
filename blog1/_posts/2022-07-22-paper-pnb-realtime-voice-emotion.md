@@ -2,7 +2,7 @@
 title: Live vocal emotions stimulate the affective brain in realtime
 description: |
   New paper out in Progress in Neurobiology. Link to
-  [article](https://doi.org/10.1016/j.pneurobio.2022.102278).
+  [article](https://doi.org/10.1016/j.pneurobio.2022.102278){:target="_blank"}.
 background: "https://ars.els-cdn.com/content/image/1-s2.0-S0301008222000648-gr1.jpg"
 author: [Sascha Frühholz]
 tags: [Research]

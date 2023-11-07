@@ -1,7 +1,8 @@
 ---
-layout: archive
-title: 
-description: Research Projects
+layout: archive2
+title: <br />
+description: 
+background: /assets/theme/images/canlab_projects2.png
 permalink: /projects/
 ---
 

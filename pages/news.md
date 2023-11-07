@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive1
 title: <br />
 description:
 background: /assets/theme/images/canlab_news2.png

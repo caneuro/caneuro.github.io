@@ -4,8 +4,9 @@
   role: Head of CAN Lab # Will appear next to name
   image: assets/theme/images/sf.jpg # Can be external link
   description: > # Can be Markdown
-    Full Professor. Master degree in Science of Education (2001) and Psychology
-    (2006), PhD in Neurobiology (2008), Habilitation in Psychology (2016).
+    Full Professor. MSc in Science of Education (2001, U Augsburg) and Psychology
+    (2006, U Bremen), PhD in Neurobiology (2008, U Bremen), Habilitation in
+    Psychology (2016, U Jena).
     <br />
     Full list of publications on
     [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sascha+Fr%C3%BChholz+%5Bauthor%5D&sort=pubdate){:target="_blank"}
@@ -21,30 +22,32 @@
   role: PhD student
   image: assets/theme/images/cs.jpg # Can be external link
   description: >
-    Neuroscientific research on brain dynamics for decoding digital emotions.
+    BA in Psychology (2016, U Hawai'i), MSc in Neuroscience (2018, NTNU), and
+    MSc in Cognitive Neuroscience (2021, U Oslo).
     <br />
     Full list of publications on
     [PubMed](https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&term=Skjegstad+CL&cauthor_id=36446775){:target="_blank"}
      and [Google Scholar](https://scholar.google.com/citations?user=YiWpIA4AAAAJ&hl=en){:target="_blank"}
-  email: c.l.skjegstad@psykologi.uio.no
-  orcid: 0000-0002-6485-3817
-  researchgate:
-  twitter:
   new_window: true
+  email: c.l.skjegstad@psykologi.uio.no
+  orcid: 0000-0003-0419-1804
+  researchgate: Christine Skjegstad
+  twitter:
 
 - name: Merve Akca
   role: Postdoc
   image: assets/theme/images/ma.jpg
   description: >
-    PhD degree in Auditory Cognition (2022), Master of Science in Psychology
-    (2016), and Bachelor of Science in Psychology (2014). Investigating the
-    cognitive and neural processing of auditory emotions in healthy and autistic populations.
+    PhD in Auditory Cognition (2022, U Oslo), MSc in Psychology
+    (2016), and BSc in Psychology (2014). Investigating the
+    cognitive and neural processing of auditory emotions in healthy and autistic
+    populations.
     <br />
     Full list of publications on
     [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Merve+Akca+%5Bauthor%5D&sort=pubdate){:target="_blank"}
      and [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=merve+akca+%5Bauthor%5D&btnG=){:target="_blank"}
   email: merve.akca@psykologi.uio.no
-  orcid: 0000-0002-2210-6696
+  orcid:
   new_window: true
 
 - name: Nicole Merz
@@ -52,5 +55,5 @@
   image: assets/theme/images/icebaer.jpg
   description: >
     Human cognition of AI generated faces.
-  email: nicole.merz@psykologi.uio.no
+  email: ntmerz@student.iln.uio.no
   new_window: true

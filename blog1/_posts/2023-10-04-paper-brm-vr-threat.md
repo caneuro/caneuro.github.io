@@ -2,7 +2,7 @@
 title: Immersive VR for investigating threat avoidance
 description: |
   New paper out in Behavior Research Methods. Link to
-  [article](https://doi.org/10.3758/s13428-023-02241-y).
+  [article](https://doi.org/10.3758/s13428-023-02241-y){:target="_blank"}.
 background: "https://media.springernature.com/lw685/springer-static/image/art%3A10.3758%2Fs13428-023-02241-y/MediaObjects/13428_2023_2241_Fig2_HTML.png?as=webp"
 author: [Sascha Frühholz]
 tags: [Research]
