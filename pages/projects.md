@@ -1,6 +1,6 @@
 ---
 layout: archive2
-title: 
+title: <br />
 description:
 background: /assets/theme/images/canlab_projects2.png
 permalink: /projects/

@@ -1,7 +1,7 @@
 ---
 layout: default
-title:
-description: <br />
+title: <br />
+description: 
 background: /assets/theme/images/canlab_projects2.png
 permalink: /about/
 ---
