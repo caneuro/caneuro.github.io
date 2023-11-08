@@ -2,7 +2,7 @@
 layout: default
 title:
 description: <br />
-background: /assets/theme/images/canlab_home2.png
+background: /assets/theme/images/canlab_projects2.png
 permalink: /about/
 ---
 
@@ -22,7 +22,7 @@ perspectives and experimental approaches from Psychology, Neuroscience, Biology,
 * Functional and structural magnetic resonance imaging (MRI)
 * Surface electroencephalography (EEG) and intracranial electrophysiology (iEEG)
 * Single-cell spiking and cellular brain stimulation
-* Computer-based information decoding and representation (AI / Machine Learning)
+* Computer-based information decoding and representation (AI / Machine Learning / Neural Networks)
 * Visual and auditory psychophysics
 * Clinical neuroscience of brain lesions
 * Forensic experiments and psychopathological dimensions of crime
