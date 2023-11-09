@@ -7,7 +7,7 @@ permalink: /
 ---
 
 **Cognitive and Affective Neuroscience Lab** led by Prof. Sascha Frühholz.
-The lab is based in the [Department of Psychology](https://www.sv.uio.no/psi/english/){:target="_blank"} at the [University of Oslo](https://www.uio.no/english/){:target="_blank"} (UiO).
+The lab is based in the [Department of Psychology](https://www.sv.uio.no/psi/english/){:target="_blank"} at the [University of Oslo (UiO)](https://www.uio.no/english/){:target="_blank"}.
 
 ## Main research areas
 
