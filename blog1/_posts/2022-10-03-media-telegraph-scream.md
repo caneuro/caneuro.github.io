@@ -1,5 +1,5 @@
 ---
-title: On rage rooms to screamatoriums
+title: On rage rooms and screamatoriums
 description: |
   Our research on human screams covered in The Telegraph. By Rosa Silverman.
   Find a link to the

@@ -1,7 +1,7 @@
 ---
 title: Skrik ut din glädje för snabbast respons
 description: |
-  Our research on human screams covered SVT Nyheter. By Karin Karltun.
+  Our research on human screams covered by SVT Nyheter. By Karin Karltun.
   Find a link to the
   [magazine article](https://www.svt.se/nyheter/vetenskap/ny-forskning-skrik-ut-din-gladje-for-snabbast-respons){:target="_blank"}
     inside this post.
@@ -14,4 +14,4 @@ comments: true
 Link to the
 [magazine article](https://www.svt.se/nyheter/vetenskap/ny-forskning-skrik-ut-din-gladje-for-snabbast-respons){:target="_blank"}.
 <br />
-Our research on human screams covered SVT Nyheter. By Karin Karltun.
+Our research on human screams covered by SVT Nyheter. By Karin Karltun.
