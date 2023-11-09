@@ -18,6 +18,7 @@ The lab is led by Prof. Sascha Frühholz.
 * Digitalization and AI in Neuroscience
 * Biometric and forensic dimensions of human data
 * Clinical neuroscience of neurological and psychiatric disorders
+* Evolution of music and musical emotions
 
 <br />
 #### Recent news posts from the lab ...
