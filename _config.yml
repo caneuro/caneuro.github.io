@@ -8,7 +8,7 @@ baseurl:                                # Only required if your site is in a dir
 # SOCIAL PROFILES
 social:
   email: sascha.fruhholz@psykologi.uio.no
-  twitter: canlab1
+  twitter: CANLab1
   github: caneuro                       # Can also be a github_username/repository
   disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
