@@ -1,9 +1,7 @@
 ---
-title: Musical emotions expressed in live performances dynamically influence
-limbic brain activity in realtime
+title: Musical emotions expressed in live performances dynamically influence limbic brain activity in realtime
 description: |
-  Talk at the Entrainment Workshop 2023, RITMO Centre, University of Oslo,
-  17-18 August, 2023. Find a link to the
+  Talk at the Entrainment Workshop 2023, RITMO Centre, University of Oslo, 17-18 August, 2023. Find a link to the
   [Youtube video](https://www.youtube.com/watch?v=Xsn8LmhKWa0){:target="_blank"}
   inside this post.
 background: /assets/theme/images/live-music.png

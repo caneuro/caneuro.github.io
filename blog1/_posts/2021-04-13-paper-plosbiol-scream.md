@@ -1,5 +1,5 @@
 ---
-title: Neurocognitive processing efficiency for discriminating human non-alarm rather than alarm scream calls
+title: Neurocognitive processing efficiency for discriminating human nonalarm rather than alarm scream calls
 description: |
   New paper out in Plos Biology. Find a link to the
   [article](https://doi.org/10.1371/journal.pbio.3000751){:target="_blank"}
