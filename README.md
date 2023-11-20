@@ -1,2 +1,2 @@
 # CAN Lab webpage
-All content is copyright (R) by CANLab
+All content is copyright (c) by CANLab
