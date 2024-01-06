@@ -14,11 +14,11 @@ The lab is led by Prof. Sascha Frühholz.
 #### Main research areas
 
 * Voice communication and social voice signals
+* Evolution of music and musical emotions
 * Affective Neuroscience and Systems Neuroscience of the limbic system
 * Digitalization and AI in Neuroscience
 * Biometric and forensic dimensions of human data
 * Clinical neuroscience of neurological and psychiatric disorders
-* Evolution of music and musical emotions
 
 <br />
 #### Recent news posts from the lab ...

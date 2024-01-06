@@ -22,4 +22,4 @@ columns:
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
-  Content on this site is copyright protected by the CANLab.
+  Content on this site is copyright protected by the CANLab. All rights reserved.
