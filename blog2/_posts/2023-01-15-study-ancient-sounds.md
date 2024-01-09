@@ -1,7 +1,7 @@
 ---
 title: Ancient music sounds.
 description: |
-  Using psychoaocustic and archeoacoustic methods we use digitalization methods
+  Using psychoaocustic and archeoacoustic methods, we use digitalization methods
   to reconstruct sound signals from ancient musical instruments.
 background:
   img: "https://www.mexicolore.co.uk/images-4/445_01_2.jpg"

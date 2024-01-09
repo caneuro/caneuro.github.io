@@ -2,7 +2,8 @@
 title: Live emotional voices and the affective brain
 description: |
   Functional neuroimaging (fMRI) studies on the link between live emotional voices
-  and affective brain mechanisms coupled by neurofeedback loops between speakers and listeners.
+  of speakers and listeners' affective brain mechanisms coupled by neurofeedback
+  loops between speakers and listeners.
 background:
   img: /assets/theme/images/anger-couple.jpg
   by: wayhomestudio on freepik

@@ -25,6 +25,12 @@ Neutral
 Anger
 {% include embed-audio.html src="/assets/audio/f06_nov_ang_xxx_v01.wav" %}
 
+Fear
+{% include embed-audio.html src="/assets/audio/f08_nov_fea_xxx_v04.wav" %}
+
+Happiness
+{% include embed-audio.html src="/assets/audio/f08_nov_hap_xxx_v04.wav" %}
+
 
 <br>
 #### Paraverbal affective voices (affective prosody)
@@ -34,3 +40,9 @@ Neutral
 
 Anger
 {% include embed-audio.html src="/assets/audio/f06_veb_ang_w01_v02.wav" %}
+
+Fear
+{% include embed-audio.html src="/assets/audio/f08_veb_fea_w03_v02.wav" %}
+
+Happiness
+{% include embed-audio.html src="/assets/audio/f08_veb_hap_w01_v01.wav" %}
