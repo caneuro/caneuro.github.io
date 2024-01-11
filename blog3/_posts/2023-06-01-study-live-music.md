@@ -10,7 +10,7 @@ comments: true
 ---
 
 #### Music examples related to the paper
-W Trost, C Trevor, N Fernandez, F Steiner, S Frühholz (). Live music stimulates
+W Trost, C Trevor, N Fernandez, F Steiner, S Frühholz ( ). Live music stimulates
 the affective brain and emotionally entrains listeners in realtime.
 <br>
 <br>
