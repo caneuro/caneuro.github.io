@@ -121,7 +121,7 @@
   role: Research assistant
   image: "https://i1.rgstatic.net/ii/profile.image/1131722364190726-1646835046227_Q512/Nicole-Merz.jpg"
   description: >
-    Human cognition of AI generated faces.
+    Brain decoding of AI generated faces.
   email: ntmerz@student.iln.uio.no
   new_window: true
 
@@ -129,7 +129,7 @@
   role: Research assistant
   image: assets/theme/images/icebaer.jpg
   description: >
-    Human neuroimaging.
+    Human neuroimaging and fMRI.
   email: margrsh@student.sv.uio.no
   new_window: true
 
@@ -142,6 +142,14 @@
   new_window: true
 
 - name: Victor-Jose Lande
+  role: Research intern
+  image: assets/theme/images/icebaer.jpg
+  description: >
+        Human neuroimaging of face and voice perception.
+  email: hose@live.no
+  new_window: true
+
+- name: Ingebjørg Anjadatter Iversen
   role: Research intern
   image: assets/theme/images/icebaer.jpg
   description: >
