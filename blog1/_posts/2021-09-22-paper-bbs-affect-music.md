@@ -1,16 +1,18 @@
 ---
-title: Live vocal emotions stimulate the affective brain in realtime
+title: The evolutionary benefit of less-credible affective musical signals for emotion induction during storytelling
 description: |
-  New paper out in Progress in Neurobiology. Find a link to the
-  [article](https://doi.org/10.1016/j.pneurobio.2022.102278){:target="_blank"}
+  New commentary out in Behavioral and Brain Sciences. Find a link to the
+  [commentary](https://doi.org/10.1017/S0140525X20001004 ){:target="_blank"}
   inside this post.
-background: "https://ars.els-cdn.com/content/image/1-s2.0-S0301008222000648-gr1.jpg"
+background: "https://static.cambridge.org/covers/BBS_0_0_0/behavioral_and%20brain%20sciences.jpg?send-full-size-image=true"
 author: [Sascha Frühholz]
 tags: [Research]
 comments: true
 ---
 
 Link to the
-[article](https://doi.org/10.1016/j.pneurobio.2022.102278){:target="_blank"}.
+[commentary](https://doi.org/10.1017/S0140525X20001004 ){:target="_blank"}.
 <br />
-New paper published in Progress in Neurobiology with F Steiner, S Fruhholz, and others. Introducing a novel realtime neuroimaging protocol for communication research and brain data during live affective speech.
+New commentary article published in Behavioral and Brain Sciences with C Trevor and S Fruhholz.
+Music seems less credible in term of signalling emotions compared to voice signals,
+which has implications for the evolutionary hypothesis on music.
