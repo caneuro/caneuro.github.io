@@ -1,5 +1,5 @@
 ---
-title: fMRI neurofeedback training can improve attention-related alertness
+title: fMRI neurofeedback training improves attention-related alertness
 description: |
   New paper out in Borderline Personality Disorder and Emotion Dysregulation.
   Find a link to the

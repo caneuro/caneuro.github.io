@@ -43,6 +43,8 @@ exclude:
   - package.json
   - petridish.gemspec
 
+github: [metadata]
+
 # FRONTMATTER DEFAULTS
 defaults:
   - scope:
