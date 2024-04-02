@@ -13,7 +13,7 @@ comments: true
 W Trost, C Trevor, N Fernandez, F Steiner, S Frühholz (2024). Live music stimulates
 the affective brain and emotionally entrains listeners in realtime. PNAS
 <br>
-https://doi.org/10.1073/pnas.231630612
+[DOI](https://doi.org/10.1073/pnas.231630612){:target="_blank"}
 <br>
 
 #### Live music performance
