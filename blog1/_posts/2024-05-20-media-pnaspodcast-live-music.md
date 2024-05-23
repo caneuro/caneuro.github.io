@@ -12,6 +12,6 @@ comments: true
 ---
 
 Link to the
-[newspaper article](https://www.pnas.org/post/podcast/emotional-power-live-music){:target="_blank"}.
+[podcast](https://www.pnas.org/post/podcast/emotional-power-live-music){:target="_blank"}.
 <br />
 Our research on the emotional power of live music covered on the PNAS podcast. By Paul Gabrielsen.
