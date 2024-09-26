@@ -15,4 +15,5 @@ Link to the
 [article](https://www.nature.com/articles/s42003-024-06372-6){:target="_blank"}
 <br />
 New paper published in Communications Psychology
-by C Roswandowitz, S Fruhholz, and others. We show that humans can be partly tricked by ID deepfakes, but the neurocognitive mechanisms identified during deepfake processing also open windows for strengthening human resilience to fake information.
+by C Roswandowitz, S Fruhholz, and others.
+We show that humans can be partly tricked by ID deepfakes, but the neurocognitive mechanisms identified during deepfake processing also open windows for strengthening human resilience to fake information.
