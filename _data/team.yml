@@ -110,39 +110,23 @@
   new_window: true
 
 - name: Gard Kvammen Beinnes
-  role: Master student
-  image: "https://media.licdn.com/dms/image/C4D03AQGlwthruJ26Jg/profile-displayphoto-shrink_800_800/0/1648160197621?e=2147483647&v=beta&t=uU73cT8IkZeGimWbzdl5ohUISwFK4cE5wwe7wsPN7yM"
+  role: Research assistant
+  image: "https://media.licdn.com/dms/image/D4D03AQH7QkFl9qJabA/profile-displayphoto-shrink_200_200/0/1715246434077?e=2147483647&v=beta&t=rNeDikvFE0EVmH_Btgl8K5bPUpsTMIQP5bjJikfJxPg"
   description: >
     Neural mechanisms of scream perception.
-  email: gardkb@student.sv.uio.no
+  email: g.k.beinnes@psykologi.uio.no
   new_window: true
 
-- name: Nicole Merz
-  role: Research assistant
-  image: "https://i1.rgstatic.net/ii/profile.image/1131722364190726-1646835046227_Q512/Nicole-Merz.jpg"
-  description: >
-    Brain decoding of AI generated faces.
-  email: ntmerz@student.iln.uio.no
-  new_window: true
-
-- name: Margrete Soya Heimvik
-  role: Research assistant
-  image: assets/theme/images/icebaer.jpg
-  description: >
-    Human neuroimaging and fMRI.
-  email: margrsh@student.sv.uio.no
-  new_window: true
-
-- name: Adrian Roalkvam
+- name: Skage Ekelund
   role: Research intern
   image: assets/theme/images/icebaer.jpg
   description: >
-      Human neuroimaging of face and voice perception.
-  email: adrianrr@student.sv.uio.no
+    Realtime human neuroimaging.
+  email: skagece@student.sv.uio.no
   new_window: true
 
 - name: Victor-Jose Lande
-  role: Research intern
+  role: Research assistant
   image: assets/theme/images/icebaer.jpg
   description: >
         Human neuroimaging of face and voice perception.
@@ -150,9 +134,9 @@
   new_window: true
 
 - name: Ingebjørg Anjadatter Iversen
-  role: Research intern
+  role: Research assistant
   image: assets/theme/images/icebaer.jpg
   description: >
         Human neuroimaging of face and voice perception.
-  email: hose@live.no
+  email: iaiversen@hotmail.com
   new_window: true

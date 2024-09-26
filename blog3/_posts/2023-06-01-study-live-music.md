@@ -13,7 +13,7 @@ comments: true
 W Trost, C Trevor, N Fernandez, F Steiner, S Frühholz (2024). Live music stimulates
 the affective brain and emotionally entrains listeners in realtime. PNAS
 <br>
-[DOI](https://doi.org/10.1073/pnas.231630612){:target="_blank"}
+[DOI 10.1073/pnas.2316306121](https://www.pnas.org/doi/10.1073/pnas.2316306121){:target="_blank"}
 <br>
 
 #### Live music performance
@@ -27,7 +27,7 @@ Unpleasant (dynamic)
 Unpleasant (articulation)
 {% include embed-audio.html src="/assets/audio/liv_unp2_art.wav" %}
 
-<br>
+<br />
 
 Pleasant (density)
 {% include embed-audio.html src="/assets/audio/liv_ple2_den.wav" %}
@@ -38,8 +38,8 @@ Pleasant (dynamic)
 Pleasant (articulation)
 {% include embed-audio.html src="/assets/audio/liv_ple2_art.wav" %}
 
+<br />
 
-<br>
 #### Recorded music
 
 Unpleasant (density)
@@ -51,7 +51,7 @@ Unpleasant (dynamic)
 Unpleasant (articulation)
 {% include embed-audio.html src="/assets/audio/rec_unp2_art.wav" %}
 
-<br>
+<br />
 
 Pleasant (density)
 {% include embed-audio.html src="/assets/audio/rec_ple2_den.wav" %}
@@ -62,4 +62,4 @@ Pleasant (dynamic)
 Pleasant (articulation)
 {% include embed-audio.html src="/assets/audio/rec_ple2_art.wav" %}
 
-<br>
+<br />
