@@ -17,4 +17,6 @@ Link to the
 New paper published in Emotion Review
 by C Trevor and S Fruhholz.
 We propose the socio-affective fiction (SAF) hypothesis as a
-new theory on the evolution of music. Music presumably evolved as a signal for SAF to increase the immersive potential of storytelling and thereby better exercise people's emotions.
+new theory on the evolution of music. Music presumably evolved as a signal for
+SAF to increase the immersive potential of storytelling and thereby better
+exercise people's emotions.

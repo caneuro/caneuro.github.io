@@ -10,7 +10,7 @@ comments: true
 ---
 
 #### Music examples related to the paper
-F Steiner, S Frühholz (). Real-time affect decoding in the amygdalo-hippocampal circuit from dynamic auditory signals.
+F Steiner, S Frühholz (in prep). Real-time affect decoding in the amygdalo-hippocampal circuit from dynamic auditory signals.
 <br>
 [DOI](){:target="_blank"}
 <br>

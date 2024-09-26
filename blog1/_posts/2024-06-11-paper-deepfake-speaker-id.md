@@ -1,7 +1,7 @@
 ---
 title: Cortical-striatal brain network distinguishes deepfake from real speaker identity
 description: |
-  New paper out in Communications Pxychology.
+  New paper out in Communications Biology.
   Find a link to the
   [article](https://www.nature.com/articles/s42003-024-06372-6){:target="_blank"}
   inside this post.
@@ -14,6 +14,8 @@ comments: true
 Link to the
 [article](https://www.nature.com/articles/s42003-024-06372-6){:target="_blank"}
 <br />
-New paper published in Communications Psychology
+New paper published in Communications Biology
 by C Roswandowitz, S Fruhholz, and others.
-We show that humans can be partly tricked by ID deepfakes, but the neurocognitive mechanisms identified during deepfake processing also open windows for strengthening human resilience to fake information.
+We show that humans can be partly tricked by ID deepfakes, but the neurocognitive
+mechanisms identified during deepfake processing also open windows for strengthening
+human resilience to fake information.
