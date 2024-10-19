@@ -13,10 +13,10 @@ comments: true
 
 Database of human screams. The database comprises expression of 10 different emotions: anger, fear, pain, sadness,  joy, and pleasure.
 
-Related to the
-[article](https://doi.org/10.1371/journal.pbio.3000751){:target="_blank"}.
+Related to this
+[article](https://doi.org/10.1371/journal.pbio.3000751){:target="_blank"}
+published in Plos Biology (10.1371/journal.pbio.3000751).
 
-<br />
 <br />
 The database contains a total of n=420 scream samples from 6 male and 6 female speakers.
 Audio samples have a 44.1kHz
