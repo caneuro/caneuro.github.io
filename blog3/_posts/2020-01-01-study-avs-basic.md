@@ -2,7 +2,7 @@
 title: Affective voice signals (AVS basic)
 description:
 background:
-  img: /assets/theme/images/anger.jpg
+  img: /assets/theme/images/happyface.jpg
   by: freepik
 author: [Frühholz]
 tags: [Database, Sounds, Voice]
