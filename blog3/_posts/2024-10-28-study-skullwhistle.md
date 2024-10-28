@@ -2,7 +2,7 @@
 title: The scary sound of Aztec skull whistles
 description:
 background:
-  img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMCkLcXilpwPoW1cliOu9wz_V7B_Kt0B6Gg&s"
+  img: /assets/theme/images/sw1.jpg
   by: Wikipedia
 author: [Frühholz]
 tags: [Database, Sounds, Music]
