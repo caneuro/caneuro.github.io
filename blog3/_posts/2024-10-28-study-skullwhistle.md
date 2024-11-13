@@ -10,9 +10,9 @@ comments: true
 ---
 
 #### Sound examples related to the paper
-S Frühholz et al (). Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles .
+S Frühholz et al (2024). Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles. Communications Psychology
 <br />
-[DOI ???](){:target="_blank"}
+[DOI 10.1038/s44271-024-00157-7](https://doi.org/10.1038/s44271-024-00157-7){:target="_blank"}.
 <br />
 
 #### Long example skull whistle sounds
